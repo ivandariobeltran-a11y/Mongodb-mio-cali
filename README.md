@@ -27,14 +27,14 @@ Base de datos: mio_cali_db
 ## Consultas implementadas
 
 ### 1. Consultas básicas CRUD
-- Inserción de un documento individual con insertOne
-- Inserción masiva de 105 documentos con insertMany
+- Inserción de un documento individual
+- Inserción masiva de documentos
 - Selección de documentos con find y proyección de campos
-- Conteo total de documentos con countDocuments
-- Actualización individual con updateOne
-- Actualización masiva de usuarios adulto mayor con updateMany
-- Eliminación individual con deleteOne
-- Eliminación con condición con deleteMany
+- Conteo total de documentos
+- Actualización individual
+- Actualización masiva de usuarios
+- Eliminación individual
+- Eliminación con condición
 
 ### 2. Consultas con filtros y operadores
 - Filtro por ruta específica y hora pico
